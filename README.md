@@ -72,6 +72,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TulipJani/TulipJani/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/TulipJani/TulipJani/blob/output/github-contribution-grid-snake.gif)
+
+
 
 ###
